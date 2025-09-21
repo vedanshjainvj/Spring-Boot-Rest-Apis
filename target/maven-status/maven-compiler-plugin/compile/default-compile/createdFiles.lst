@@ -1,0 +1,9 @@
+com/vedansh/restapis/RestApis/entity/Student.class
+com/vedansh/restapis/RestApis/dto/AddStudentRequestDto.class
+com/vedansh/restapis/RestApis/service/impl/StudentServiceImpl.class
+com/vedansh/restapis/RestApis/RestApisApplication.class
+com/vedansh/restapis/RestApis/service/StudentService.class
+com/vedansh/restapis/RestApis/controller/StudentController.class
+com/vedansh/restapis/RestApis/config/MapperConfig.class
+com/vedansh/restapis/RestApis/dto/StudentDto.class
+com/vedansh/restapis/RestApis/repository/StudentRepository.class
